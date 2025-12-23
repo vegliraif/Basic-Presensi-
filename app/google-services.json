@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121483277620",
+    "project_id": "presensi-cce50",
+    "storage_bucket": "presensi-cce50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121483277620:android:7e7145eec0a1e5b3286161",
+        "android_client_info": {
+          "package_name": "com.vegli.presensi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAs6BiFEgrEv-rVThEUA59MDREGJw4waE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
